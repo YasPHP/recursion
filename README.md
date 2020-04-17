@@ -20,6 +20,8 @@ The problems include:
 - Geometric Sequence: Generates a subsequent geometric sequence of a specific length generated from a starting point combined with a common-ratio multiplier.
 
 - List Flattener: Converts a nested list to a flattened, non-nested list.
+
+- Element Depth Search - Gets an element at a specific depth of a given object.
  
 diagram: https://www.researchgate.net/profile/Craig_Knoblock/publication/2453845/figure/fig2/AS:669526123347968@1536638875023/State-Space-for-the-Three-Disk-Tower-of-Hanoi-Puzzle.png
 
