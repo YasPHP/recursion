@@ -1,3 +1,4 @@
+
 def first_at_depth(obj: Union[int, List], d: int) -> Optional[int]:
     """ Return the first (leftmost) number in <obj> at depth <d>.
 
@@ -38,3 +39,5 @@ def first_at_depth(obj: Union[int, List], d: int) -> Optional[int]:
                 else:
                     first_at_depth(sublist, d - 1)
         return status
+    
+    
