@@ -22,6 +22,8 @@ The problems include:
 - List Flattener: Converts a nested list to a flattened, non-nested list.
 
 - Element Depth Search - Gets an element at a specific depth of a given object.
+
+- Factorial: Calculates factorial by multiplying any natural number with all the natural numbers that are smaller than it, giving us the mathematical definition n! = n * (n - 1) * (n - 2) * (n - 3). Lastly, factorial can be used to find how many ways one can arrange/order a set number of things.
  
 diagram: https://www.researchgate.net/profile/Craig_Knoblock/publication/2453845/figure/fig2/AS:669526123347968@1536638875023/State-Space-for-the-Three-Disk-Tower-of-Hanoi-Puzzle.png
 
