@@ -1,24 +1,5 @@
 """
 
-Log in or Sign up
-
-
-CCC '05 J5 - Bananas View as PDF
-
-Submit solution
-
-All submissions
-
-Best submissions
-
-Points:10
-
-Time limit:1.0s
-
-Memory limit:64M
-
-Problem types
-
 The term "code monkey" is sometimes used to refer to a programmer who doesn't know much about programming. This is unfair to monkeys, because contrary to popular belief, monkeys are quite smart. They have just been misunderstood. This may be because monkeys do not speak English, but only monkey language. Your job is to help humans and monkeys understand each other by writing a monkey language dictionary. For each word that is typed in, your program must determine whether it is a valid monkey language word.
 
 Unlike in English, spelling in monkey language is very simple. Every word in monkey language satisfies the following rules, and every word satisfying the following rules is a monkey language word.
