@@ -34,9 +34,9 @@ and there is no output for word "X" (even though it is not a monkey word).
 Credits: https://dmoj.ca/problem/ccc05j5
 """
 
-def monkey(word: str) -> str:
+def monkey(word: str) -> str: # no clear return, just print statement so assuming equivalency exception
   """
-  Return 'YES' if <word> is a monkey language word, and 'NO' if not.
+  Print 'YES' if <word> is a monkey language word, and 'NO' if not.
   """
   if word == 'X':
     return ''
@@ -46,3 +46,6 @@ def monkey(word: str) -> str:
     else:
       print('NO')
       return monkey(word)
+    
+    # re-check recursive call placement
+    
