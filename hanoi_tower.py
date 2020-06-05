@@ -33,3 +33,4 @@ def hanoi(n, f, h, t):
 
 
 hanoi(4, "A", "B", "C")
+
