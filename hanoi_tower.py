@@ -1,7 +1,9 @@
 """
 The Tower of Hanoi problem!
 """
-
+# Contains 3 rods and a number of disks
+# Main goal: To move all disks to the last rod from the 1st 
+# With a precursor of rules outlined in the hanoi problem
 
 def move(f, t):
     """
